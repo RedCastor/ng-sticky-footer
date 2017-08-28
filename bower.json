@@ -14,7 +14,7 @@
     "sticky"
   ],
   "main": [
-    "dist/ ng-sticky-footer.js"
+    "dist/ng-sticky-footer.js"
   ],
   "ignore": [
     "**/.*",
