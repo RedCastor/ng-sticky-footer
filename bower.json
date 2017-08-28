@@ -1,0 +1,30 @@
+{
+  "name": "ng-sticky-footer",
+  "version": "1.0.4",
+  "homepage": "https://redcastor.io",
+  "authors": [
+    "Auban le Grelle"
+  ],
+  "description": "",
+  "keywords": [
+    "angular",
+    "redcastor",
+    "angularjs",
+    "directive",
+    "sticky"
+  ],
+  "main": [
+    "dist/ ng-sticky-footer.js"
+  ],
+  "ignore": [
+    "**/.*",
+    "**/*.txt",
+    ".jscsrc",
+    ".jshintrc",
+    "node_modules",
+    "bower_components"
+  ],
+  "dependencies": {
+    "angular": "~1.6.4"
+  }
+}
