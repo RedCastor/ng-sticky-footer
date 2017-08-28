@@ -4,15 +4,18 @@ ng-sticky-footer
 Sticky Footer
 
 <h4>Installing</h4>
+
 ```
 bower install git@git__XXX__.git#x.x.x
 ```
+
 ```javascript
 angular('yourAngularApp',['ngStickyFooter']);
 ```
 
 <h4>Usage/Example</h4>
 Example with Sticky only if body content is smaller than window heigh
+
 ```html
 <div class="body">
         <div class="body-content">
@@ -36,6 +39,7 @@ Example with Sticky only if body content is smaller than window heigh
 
 <h4>Usage/Example</h4>
 Example with Sticky always
+
 ```html
 <div class="body">
     <div class="body-content">
